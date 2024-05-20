@@ -57,7 +57,7 @@ Alphabet Soup wants a tool that can help it select the applicants for funding wi
 
 ## Result:
 
-* Making above changes to the model increased the accuracy to 78%.
+### Making above changes to the model increased the accuracy to 78%.
 
 Four jupyter files are starting from initial AlphabetSoupCharity to 3AlphabetSoupCharity and also there are 4 HDF5 files all stored in the repository. 
 The initial jupyter notebook has the basic model and the other 3 jupyter files have optimization attempts with different alterations of hidden layers, neurons, features, and so on. A detailed Report has been attached explaining every step related to the process. 
